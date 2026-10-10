@@ -1,0 +1,1 @@
+import{Zn as e,r as t}from"./s-CbGEQTI0.js";import{u as n}from"./s-BotuUgVB.js";var r=e();function i({active:e}){return(0,r.jsx)(t,{item:{key:`sync`,icon:n},active:e})}export{i as SyncNavItem};
