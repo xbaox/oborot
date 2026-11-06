@@ -1,0 +1,1 @@
+import{Jt as e,Yt as t}from"./s-YTbgcWCC.js";import{u as n}from"./s-DkxDCObT.js";async function r(r,i,a){try{let{undo:e}=await n((r.group?.units??[r.device]).map(e=>e.id));return t(a(`stock.deletedMany`,{count:i,model:r.look.model}),e,a,r.look.model),!0}catch(t){return e(t,a),!1}}export{r as deleteRowWithUndo};

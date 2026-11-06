@@ -1,0 +1,1 @@
+import{Ai as e,nt as t}from"./s-YTbgcWCC.js";import{a as n,hn as r,nn as i}from"./core-CEe-Ljhk.js";var a=!1;function o(o,s,c){if(!n(`1.10.5`,o)||(e({lastSeenVersion:t}),a))return;a=!0;let l=r(s).t;i({text:l(`update.updated`,{version:t}),action:{label:l(`update.whatsNew`),run:c},durationMs:6e3})}export{o as noteVersion};

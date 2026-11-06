@@ -1,0 +1,1 @@
+import{i as e,r as t,t as n}from"./s-Cq7wNOEe.js";import{Ba as r}from"./s-YTbgcWCC.js";var i=r();function a(){return(0,i.jsxs)(i.Fragment,{children:[(0,i.jsx)(e,{}),(0,i.jsx)(n,{})]})}function o(){return(0,i.jsx)(t,{})}export{a as StockPartsActions,o as StockPartsList};
