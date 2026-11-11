@@ -1,0 +1,1 @@
+import{t as e}from"./s-DJTFKiad.js";import{Ai as t}from"./s-D0UVxez4.js";async function n(n,r,i){await e()?i():await t(n,r)}export{n as loadDemoOrAsk};

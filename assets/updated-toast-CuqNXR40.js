@@ -1,0 +1,1 @@
+import{Ii as e,rt as t}from"./s-D0UVxez4.js";import{x as n}from"./s-Cdj8KQ2g.js";import{Kt as r,Nt as i}from"./core-zd_OV_bz.js";var a=!1;function o(o,s,c){if(!n(`1.12.1`,o)||(e({lastSeenVersion:t}),a))return;a=!0;let l=r(s).t;i({text:l(`update.updated`,{version:t}),action:{label:l(`update.whatsNew`),run:c},durationMs:6e3})}export{o as noteVersion};

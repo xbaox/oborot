@@ -1,0 +1,1 @@
+var e=163.4,t=Math.PI/180;function n(n,r=20){let i=Math.tan(r/2*t),a=e/.8/(2*i),o=78.1*1.16/(2*i*n);return Math.max(a,o)}export{n,e as t};
