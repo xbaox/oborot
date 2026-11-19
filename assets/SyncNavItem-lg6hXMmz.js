@@ -1,0 +1,1 @@
+import{i as e}from"./s-B0ZuFzzH.js";import{a as t,ao as n}from"./s-fKI3ylCS.js";var r=n();function i({active:n}){return(0,r.jsx)(t,{item:{key:`sync`,icon:e},active:n})}export{i as SyncNavItem};
